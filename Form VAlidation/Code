@@ -108,3 +108,9 @@ function Form() {
 
 export default Form;
 
+App.jsx
+import Form from "./form/Form"
+export default function Mapp(){
+  return<Form/>
+}
+
